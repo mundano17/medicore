@@ -98,7 +98,7 @@ medicore
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/medicore.git
+git clone https://github.com/mundano/medicore.git
 cd medicore
 ```
 
@@ -117,16 +117,10 @@ Run the backend server:
 npm run dev
 ```
 
-or
-
-```bash
-npm start
-```
-
 Server will start on:
 
 ```
-http://localhost:5000
+http://localhost:4000
 ```
 
 ---
@@ -193,17 +187,3 @@ POST /doctors
 * Integration with hospital databases
 * Advanced predictive healthcare analytics
 * Deployment with Docker & cloud services
-
----
-
-## 👨‍💻 Author
-
-**Vishesh Kumar Singh**
-B.Tech Student – VIT Chennai
-Interested in **AI, full stack development, and data-driven systems**
-
----
-
-## 📜 License
-
-This project is for **academic and learning purposes**.
